@@ -1,0 +1,20 @@
+D:\LAP 2\LAP Programming\Turtle's Revenge\bin\Debug\netcoreapp3.1\Turtle's Revenge.exe
+D:\LAP 2\LAP Programming\Turtle's Revenge\bin\Debug\netcoreapp3.1\Turtle's Revenge.deps.json
+D:\LAP 2\LAP Programming\Turtle's Revenge\bin\Debug\netcoreapp3.1\Turtle's Revenge.runtimeconfig.json
+D:\LAP 2\LAP Programming\Turtle's Revenge\bin\Debug\netcoreapp3.1\Turtle's Revenge.runtimeconfig.dev.json
+D:\LAP 2\LAP Programming\Turtle's Revenge\bin\Debug\netcoreapp3.1\Turtle's Revenge.dll
+D:\LAP 2\LAP Programming\Turtle's Revenge\bin\Debug\netcoreapp3.1\Turtle's Revenge.pdb
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.csproj.AssemblyReference.cache
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle_s_Revenge.Form1.resources
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle_s_Revenge.Properties.Resources.resources
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.csproj.GenerateResource.cache
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.AssemblyInfoInputs.cache
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.AssemblyInfo.cs
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.csproj.CoreCompileInputs.cache
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.dll
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.pdb
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle's Revenge.genruntimeconfig.cache
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle_s_Revenge.StartPage.resources
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle_s_Revenge.Instruction.resources
+D:\LAP 2\LAP Programming\Turtle's Revenge\obj\Debug\netcoreapp3.1\Turtle_s_Revenge.PausePopUpBox.resources
